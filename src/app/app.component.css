@@ -1,0 +1,38 @@
+.mat-toolbar {
+    /* background: rgb(0 0 0 / 54%); */
+    margin-left: 0px;
+}
+
+.example-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #eee;
+}
+
+
+/* .user-text{
+  color: #eee;
+} */
+
+.mat-drawer-side {
+    border-right: none;
+    background: #2d323e;
+    color: white;
+    min-width: 150px;
+}
+
+.main-contant {
+    padding: 10%;
+}
+
+.example-fill-remaining-space {
+    flex: 1 1 auto;
+}
+
+.mat-flat-button {
+    margin-left: 2%;
+    background-color: DARKSEAGREEN;
+}

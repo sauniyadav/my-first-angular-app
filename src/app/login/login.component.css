@@ -1,0 +1,19 @@
+.login-page {
+    margin: auto;
+    width: 70%;
+    border: 2px solid #BBB;
+    padding: 10px;
+    box-shadow: 5px 10px 5px #fff5ab inset;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    background-color: white;
+    /* background-image: linear-gradient(to right, rgb(200, 191, 0), 	rgb(0, 255, 64)); */
+}
+
+.login-page form {
+    padding: 5%;
+}
+
+h1 {
+    text-align: center;
+}
